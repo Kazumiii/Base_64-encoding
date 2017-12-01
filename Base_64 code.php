@@ -1,6 +1,6 @@
 <?php
 
-define('SALT','bit of salt');
+define('SALT','pinch of salt');
 
 
 function encrypt($text)
